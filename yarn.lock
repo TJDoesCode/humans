@@ -1712,14 +1712,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vercel/node@npm:1.9.1":
-  version: 1.9.1
-  resolution: "@vercel/node@npm:1.9.1"
+"@vercel/node@npm:1.11.0":
+  version: 1.11.0
+  resolution: "@vercel/node@npm:1.11.0"
   dependencies:
     "@types/node": "*"
     ts-node: 8.9.1
     typescript: 3.9.3
-  checksum: 4daae2b5ee95ba083372b2f1f40e49c55d267b2b0b1cf0b86a16f218728cc50b1b0554e7747d951bbf220b4a47d606c9ccc4e9d5a007ceb61346eada5ef4f85c
+  checksum: e06b6900b9e2885a47871997ccaa4e5808f402f6817c7ffdedfbd837621136a2abd6afe8b1d7c9de19f11626b1622f0b8fac3803e7323e3d5e2fa1a35f346224
   languageName: node
   linkType: hard
 
@@ -6696,7 +6696,7 @@ fsevents@~2.3.1:
     "@types/uuid": 8.3.0
     "@typescript-eslint/eslint-plugin": 4.20.0
     "@typescript-eslint/parser": 4.20.0
-    "@vercel/node": 1.9.1
+    "@vercel/node": 1.11.0
     "@vue/cli-plugin-babel": 4.5.11
     "@vue/cli-plugin-eslint": 4.5.11
     "@vue/cli-plugin-typescript": 4.5.11
