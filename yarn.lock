@@ -4407,10 +4407,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"date-fns@npm:2.17.0":
-  version: 2.17.0
-  resolution: "date-fns@npm:2.17.0"
-  checksum: 51ee9e264aac54d2a16471691d560838bad681f729573f520b03ec0c21f28904c73bf98ec2d33603e71bdabf8506140449c2b50d0db6fdd042faed9fe5467b92
+"date-fns@npm:2.22.1":
+  version: 2.22.1
+  resolution: "date-fns@npm:2.22.1"
+  checksum: a89dc6cdf3929b3f0d54d129a3c288df995fc3e6c8099dacc215e5404b4950fc8551d11a58968dfd3b8d576d0c5e637072f615e8f9c3e47d82c81e3952007d5b
   languageName: node
   linkType: hard
 
@@ -6710,7 +6710,7 @@ fsevents@~2.3.1:
     cloudinary: 1.24.0
     cookie: 0.4.1
     core-js: 3.8.3
-    date-fns: 2.17.0
+    date-fns: 2.22.1
     deta: 0.0.8
     eslint: 7.18.0
     eslint-config-prettier: 7.2.0
