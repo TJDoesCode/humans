@@ -3728,15 +3728,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cloudinary@npm:1.24.0":
-  version: 1.24.0
-  resolution: "cloudinary@npm:1.24.0"
+"cloudinary@npm:1.26.0":
+  version: 1.26.0
+  resolution: "cloudinary@npm:1.26.0"
   dependencies:
     cloudinary-core: ^2.10.2
     core-js: 3.6.5
     lodash: ^4.17.11
     q: ^1.5.1
-  checksum: a38a3a3143c462a0694607e933a94af90d4a55e4cd3c87dcdc7edc2ca9a3f6d9552e9ab8f81e3ac47293862525a1a471f6da7686ece146f1dc228917882b8125
+  checksum: f4660dc30546bd9a759a32b7adc812ded423a6e45cd1ab568ba19118dae8cbc4851026399e1bfdda7a9b911bda7106f7397409b908be732830cab35c092060da
   languageName: node
   linkType: hard
 
@@ -6707,7 +6707,7 @@ fsevents@~2.3.1:
     babel-loader: ^8.2.2
     babel-plugin-module-resolver: ^4.1.0
     bcryptjs: 2.4.3
-    cloudinary: 1.24.0
+    cloudinary: 1.26.0
     cookie: 0.4.1
     core-js: 3.8.3
     date-fns: 2.17.0
