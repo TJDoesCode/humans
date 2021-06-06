@@ -14,7 +14,7 @@
 		"bcryptjs": "2.4.3",
 		"cloudinary": "1.24.0",
 		"cookie": "0.4.1",
-		"core-js": "3.8.3",
+		"core-js": "3.14.0",
 		"date-fns": "2.17.0",
 		"deta": "0.0.8",
 		"uuid": "8.3.2",
